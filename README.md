@@ -1,11 +1,11 @@
-```diff
-- if passionne_par_informatique:
-+ if passionne_par_informatique:
-@@ Salut ! Je suis [Votre nom], un passionné d'informatique à la recherche de nouvelles connaissances et de défis passionnants. @@
-- else:
-+ else:
-@@ Dommage ! Il semble que l'informatique ne soit pas ma passion. @@
+```python
+passionne_par_informatique = True
 
+if passionne_par_informatique:
+    print("Salut ! Je suis Akram SLIMANI, un passionné d'informatique à la recherche de nouvelles connaissances et de défis passionnants.")
+else:
+    print("Dommage ! Il semble que l'informatique ne soit pas ma passion.")
+```
 
 
 ## À propos de moi
