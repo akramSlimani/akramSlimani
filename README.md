@@ -1,6 +1,10 @@
-# Bienvenue sur mon profil GitHub !
+passionne_par_informatique = True
 
-Salut ! Je m'appelle Akram SLIMANI, je suis étudiant en informatique passionné par la technologie et le développement logiciel.
+if passionne_par_informatique:
+    print("Salut ! Je suis Akram SLIMANI, un passionné d'informatique à la recherche de nouvelles connaissances et de défis passionnants.")
+else:
+    print("Dommage ! Il semble que l'informatique ne soit pas ma passion.")
+
 
 ## À propos de moi
 Je suis actuellement en train de poursuivre mes études en informatique, en me concentrant sur divers domaines tels que le développement web, la programmation orientée objet et l'intelligence artificielle. J'aime relever de nouveaux défis et découvrir de nouvelles technologies qui me permettent d'améliorer mes compétences.
