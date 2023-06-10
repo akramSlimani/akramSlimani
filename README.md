@@ -22,7 +22,7 @@ Je travaille sur divers projets personnels et académiques, qui me permettent d'
 
 
 ## Contact
-Si vous souhaitez me contacter pour discuter de collaborations, de projets ou simplement pour échanger des idées, n'hésitez pas à me contacter par email à akramslimani277@gmail.com ou via LinkedIn.
+Si vous souhaitez me contacter pour discuter de collaborations, de projets ou simplement pour échanger des idées, n'hésitez pas à me contacter par email à akramslimani277@gmail.com ou via LinkedIn https://www.linkedin.com/in/akram-slimani-5778a3221/.
 
 Merci d'avoir visité mon profil GitHub et n'hésitez pas à explorer mes projets. J'apprécie vos retours et suggestions !
 
