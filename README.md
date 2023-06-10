@@ -15,7 +15,7 @@ Je suis actuellement en train de poursuivre mes études en informatique, en me c
 Je travaille sur divers projets personnels et académiques, qui me permettent d'appliquer mes connaissances et d'explorer différentes technologies. J'ai une passion particulière pour le développement web, et j'aime créer des applications interactives et conviviales.
 
 ## Compétences techniques
-- Langages de programmation : `Java` `C` ` Python` `R` `PHP` `HTML/CSS` `Prolog` `Processing`
+- Langages de programmation : `Java` `JavaScript` `C` ` Python` `R` `PHP` `HTML/CSS` `Prolog` `Processing`
 - Base de données : `MySQL` `PostgreSQL` `Oracle` `PL/pgSQL`
 - Systèmes d'exploitation : `Windows` `Shell` `Linux` `Android`
 - Outils : `UML` `Maven` `Git/GitLab` `JUnit` `AWK` `Eclipse` `VSCode` `PhpMyAdmin` `XAMPP` `Pack Office (Word, Excel, PowerPoint)` `GitHub`
