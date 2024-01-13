@@ -1,13 +1,3 @@
-```python
-passionne_par_informatique = True
-
-if passionne_par_informatique:
-    print("Salut ! Je suis Akram SLIMANI, un passionné d'informatique à la recherche de nouvelles connaissances et de défis passionnants.")
-else:
-    print("Dommage ! Il semble que l'informatique ne soit pas ma passion.")
-```
-
-
 ## À propos de moi
 Je suis actuellement en train de poursuivre mes études en informatique, en me concentrant sur divers domaines tels que le développement web, la programmation orientée objet et l'intelligence artificielle. J'aime relever de nouveaux défis et découvrir de nouvelles technologies qui me permettent d'améliorer mes compétences.
 
@@ -27,3 +17,11 @@ Si vous souhaitez me contacter pour discuter de collaborations, de projets ou si
 Merci d'avoir visité mon profil GitHub et n'hésitez pas à explorer mes projets. J'apprécie vos retours et suggestions !
 
 
+```python
+passionne_par_informatique = True
+
+if passionne_par_informatique:
+    print("Salut ! Je suis Akram SLIMANI, un passionné d'informatique à la recherche de nouvelles connaissances et de défis passionnants.")
+else:
+    print("Dommage ! Il semble que l'informatique ne soit pas ma passion.")
+```
