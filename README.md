@@ -16,8 +16,8 @@ Si vous souhaitez me contacter pour discuter de collaborations, de projets ou si
 
 Merci d'avoir visité mon profil GitHub et n'hésitez pas à explorer mes projets. J'apprécie vos retours et suggestions !
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akramSlimani&show_icons=true&locale=en" alt="akramSlimani" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akramSlimani&show_icons=true&locale=en" alt="akramSlimani" /></p>
+-->
 
 ```python
 passionne_par_informatique = True
