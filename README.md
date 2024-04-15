@@ -20,9 +20,9 @@ Merci d'avoir visité mon profil GitHub et n'hésitez pas à explorer mes projet
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akramSlimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<!--
 [![](https://visitcount.itsvg.in/api?id=akramSlimani&icon=0&color=0)](https://visitcount.itsvg.in)
-
+--->
 <!--
 ```python
 passionne_par_informatique = True
