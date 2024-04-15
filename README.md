@@ -18,7 +18,12 @@ Merci d'avoir visité mon profil GitHub et n'hésitez pas à explorer mes projet
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akramSlimani&show_icons=true&locale=en" alt="akramSlimani" /></p>
 -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akramSlimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=akramSlimani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!--
 ```python
 passionne_par_informatique = True
 
@@ -27,3 +32,4 @@ if passionne_par_informatique:
 else:
     print("Dommage ! Il semble que l'informatique ne soit pas ma passion.")
 ```
+-->
